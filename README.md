@@ -4,7 +4,7 @@
 
 - <a href="https://www.youtube.com/c/Softlinks?sub_confirmation=1" title="Subscribe to Kunal Kushwaha's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
-- <a href="https://www.youtube.com/softlinks" title="Click here to access full Playlist on YouTube" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📂 Complete Playlist</a>
+- <a href="https://www.youtube.com/watch?v=2VcJKapzQ3c&list=PLj6V26-AUWSGvSp1bggcZ9stD0XXY5J7H" title="Click here to access full Playlist on YouTube" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📂 Complete Playlist</a>
 
 
 
